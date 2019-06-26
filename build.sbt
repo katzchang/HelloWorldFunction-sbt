@@ -1,4 +1,4 @@
-organization := "com.voyagegroup"
+organization := "jp.katzchang"
 
 name := "hello-sam"
 
