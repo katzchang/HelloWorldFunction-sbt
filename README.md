@@ -6,7 +6,14 @@
 
 ### test api locally
 
+start server:
 ```bash
 make assembly
 make start-api
+```
+
+and test:
+
+```bash
+curl -v localhost:3000/hello
 ```
