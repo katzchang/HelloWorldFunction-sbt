@@ -8,7 +8,7 @@
 
 start server:
 ```bash
-make assembly
+make sbt-assembly
 make start-api
 ```
 
