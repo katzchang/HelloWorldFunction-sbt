@@ -15,6 +15,6 @@ make start-api
 and test:
 
 ```bash
-curl -v localhost:3000/hello
-curl -v localhost:3000/helloscala
+curl -v "localhost:3000/hello"
+curl -v "localhost:3000/helloscala/123?hello=world&hello=world!!"
 ```
