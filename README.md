@@ -16,4 +16,5 @@ and test:
 
 ```bash
 curl -v localhost:3000/hello
+curl -v localhost:3000/helloscala
 ```
